@@ -1,0 +1,382 @@
+,City,Latitude,Longitude
+0,"Chicago, IL",41.8781,-87.6298
+1,"Atlanta, GA",33.749,-84.388
+2,"Dallas/Fort Worth, TX",32.7767,-96.797
+3,"Denver, CO",39.7392,-104.9903
+4,"New York, NY",40.7128,-74.006
+5,"Charlotte, NC",35.2271,-80.8431
+6,"Houston, TX",29.7604,-95.3698
+7,"Los Angeles, CA",34.0522,-118.2437
+8,"Washington, DC",38.9072,-77.0369
+9,"Seattle, WA",47.6062,-122.3321
+10,"Phoenix, AZ",33.4484,-112.074
+11,"Las Vegas, NV",36.1699,-115.1398
+12,"Detroit, MI",42.3314,-83.0458
+13,"San Francisco, CA",37.7749,-122.4194
+14,"Minneapolis, MN",44.9778,-93.265
+15,"Orlando, FL",28.5383,-81.3792
+16,"Newark, NJ",40.7357,-74.1724
+17,"Boston, MA",42.3601,-71.0589
+18,"Philadelphia, PA",39.9526,-75.1652
+19,"Salt Lake City, UT",40.7608,-111.891
+20,"Fort Lauderdale, FL",26.1224,-80.1373
+21,"Baltimore, MD",39.2904,-76.6122
+22,"Miami, FL",25.7617,-80.1918
+23,"San Diego, CA",32.7157,-117.1611
+24,"Nashville, TN",36.1627,-86.7816
+25,"Tampa, FL",27.9506,-82.4572
+26,"Portland, OR",45.5051,-122.675
+27,"Austin, TX",30.2672,-97.7431
+28,"Dallas, TX",32.7767,-96.797
+29,"St. Louis, MO",38.627,-90.1994
+30,"Raleigh/Durham, NC",35.7796,-78.6382
+31,"San Jose, CA",37.3382,-121.8863
+32,"Sacramento, CA",38.5816,-121.4944
+33,"Kansas City, MO",39.0997,-94.5786
+34,"Honolulu, HI",21.3069,-157.8583
+35,"New Orleans, LA",29.9511,-90.0715
+36,"Oakland, CA",37.8044,-122.2711
+37,"Indianapolis, IN",39.7684,-86.1581
+38,"Pittsburgh, PA",40.4406,-79.9959
+39,"Cleveland, OH",41.4993,-81.6944
+40,"Cincinnati, OH",39.1031,-84.512
+41,"Columbus, OH",39.9612,-82.9988
+42,"Santa Ana, CA",33.7455,-117.8677
+43,"Fort Myers, FL",26.6406,-81.8723
+44,"San Antonio, TX",29.4241,-98.4936
+45,"Milwaukee, WI",43.0389,-87.9065
+46,"Jacksonville, FL",30.3322,-81.6557
+47,"San Juan, PR",18.4655,-66.1057
+48,"Burbank, CA",34.1808,-118.3089
+49,"Hartford, CT",41.7658,-72.6734
+50,"Boise, ID",43.615,-116.2023
+51,"Richmond, VA",37.5407,-77.436
+52,"Omaha, NE",41.2565,-95.9345
+53,"West Palm Beach/Palm Beach, FL",26.7153,-80.0534
+54,"Louisville, KY",38.2527,-85.7585
+55,"Kahului, HI",20.8947,-156.47
+56,"Charleston, SC",32.7765,-79.9311
+57,"Buffalo, NY",42.8864,-78.8784
+58,"Memphis, TN",35.1495,-90.049
+59,"Norfolk, VA",36.8508,-76.2859
+60,"Albuquerque, NM",35.0844,-106.6504
+61,"Oklahoma City, OK",35.4676,-97.5164
+62,"Ontario, CA",34.0633,-117.6509
+63,"Spokane, WA",47.6588,-117.426
+64,"Reno, NV",39.5296,-119.8138
+65,"Grand Rapids, MI",42.9634,-85.6681
+66,"Anchorage, AK",61.2181,-149.9003
+67,"Birmingham, AL",33.5207,-86.8025
+68,"Knoxville, TN",35.9606,-83.9207
+69,"Savannah, GA",32.0809,-81.0912
+70,"Tucson, AZ",32.2226,-110.9747
+71,"Providence, RI",41.824,-71.4128
+72,"Tulsa, OK",36.154,-95.9928
+73,"El Paso, TX",31.7619,-106.485
+74,"Des Moines, IA",41.5868,-93.625
+75,"Rochester, NY",43.1566,-77.6088
+76,"Albany, NY",42.6526,-73.7562
+77,"Syracuse, NY",43.0481,-76.1474
+78,"Greer, SC",34.9381,-82.2275
+79,"Long Beach, CA",33.7701,-118.1937
+80,"Greensboro/High Point, NC",36.0726,-79.792
+81,"Madison, WI",43.0731,-89.4012
+82,"Myrtle Beach, SC",33.6891,-78.8867
+83,"Dayton, OH",39.7589,-84.1916
+84,"Kona, HI",19.6406,-155.9969
+85,"Palm Springs, CA",33.8303,-116.5453
+86,"Little Rock, AR",34.7465,-92.2896
+87,"Portland, ME",43.6591,-70.2568
+88,"Lihue, HI",21.9789,-159.3563
+89,"Fayetteville, AR",36.0626,-94.1574
+90,"Pensacola, FL",30.4213,-87.2169
+91,"Sarasota/Bradenton, FL",27.3364,-82.5307
+92,"Fresno, CA",36.7372,-119.7871
+93,"White Plains, NY",41.033,-73.7629
+94,"Lexington, KY",38.0406,-84.5037
+95,"Colorado Springs, CO",38.8339,-104.8214
+96,"Wichita, KS",37.6872,-97.3301
+97,"Harrisburg, PA",40.2732,-76.8867
+98,"Asheville, NC",35.5951,-82.5515
+99,"Sanford, FL",28.8029,-81.2695
+100,"Huntsville, AL",34.7304,-86.5861
+101,"Midland/Odessa, TX",31.8457,-102.3676
+102,"Burlington, VT",44.4759,-73.2121
+103,"Cedar Rapids/Iowa City, IA",41.9779,-91.6656
+104,"Valparaiso, FL",30.5096,-86.4726
+105,"Columbia, SC",34.0007,-81.0348
+106,"Springfield, MO",37.2086,-93.2926
+107,"Bozeman, MT",45.6769,-111.0429
+108,"Chattanooga, TN",35.0456,-85.3097
+109,"Eugene, OR",44.0521,-123.0868
+110,"Manchester, NH",42.9956,-71.4548
+111,"Jackson/Vicksburg, MS",32.2988,-90.1848
+112,"St. Petersburg, FL",27.7676,-82.6403
+113,"Medford, OR",42.3265,-122.8756
+114,"Sioux Falls, SD",43.5446,-96.7311
+115,"Wilmington, NC",34.2257,-77.9447
+116,"Santa Barbara, CA",34.4208,-119.6982
+117,"Bend/Redmond, OR",44.0582,-121.3153
+118,"Panama City, FL",30.1588,-85.6602
+119,"Baton Rouge, LA",30.4515,-91.1871
+120,"Fort Wayne, IN",41.0793,-85.1394
+121,"Key West, FL",24.5551,-81.78
+122,"Charlottesville, VA",38.0293,-78.4767
+123,"Fargo, ND",46.8772,-96.7898
+124,"South Bend, IN",41.6764,-86.252
+125,"Roanoke, VA",37.271,-79.9414
+126,"Aspen, CO",39.1911,-106.8175
+127,"Pasco/Kennewick/Richland, WA",46.2628,-119.2163
+128,"Lubbock, TX",33.5779,-101.8552
+129,"Tallahassee, FL",30.4383,-84.2807
+130,"Shreveport, LA",32.5252,-93.7502
+131,"Appleton, WI",44.2611,-88.4134
+132,"Rapid City, SD",44.0805,-103.231
+133,"Punta Gorda, FL",26.9298,-82.0454
+134,"Corpus Christi, TX",27.8006,-97.3964
+135,"Billings, MT",45.7833,-108.5007
+136,"Moline, IL",41.5067,-90.5151
+137,"Allentown/Bethlehem/Easton, PA",40.6023,-75.4714
+138,"Mobile, AL",30.6954,-88.0399
+139,"Missoula, MT",46.8721,-113.994
+140,"Peoria, IL",40.6936,-89.589
+141,"Islip, NY",40.7891,-73.1349
+142,"Hilo, HI",19.7071,-155.0884
+143,"Traverse City, MI",44.7631,-85.6206
+144,"Green Bay, WI",44.5126,-88.0133
+145,"Bangor, ME",44.8012,-68.7778
+146,"Jackson, WY",43.4799,-110.7624
+147,"Kalispell, MT",48.2023,-114.3129
+148,"Augusta, GA",33.4735,-82.0105
+149,"Mission/McAllen/Edinburg, TX",26.2034,-98.23
+150,"Lafayette, LA",30.2241,-92.0198
+151,"Akron, OH",41.0814,-81.519
+152,"Amarillo, TX",35.2211,-101.8302
+153,"Bismarck/Mandan, ND",46.8083,-100.7837
+154,"Grand Junction, CO",39.0639,-108.5506
+155,"Charlotte Amalie, VI",18.3419,-64.9307
+156,"Evansville, IN",37.9716,-87.5711
+157,"Durango, CO",37.2753,-107.8801
+158,"Gainesville, FL",29.6516,-82.3248
+159,"Fairbanks, AK",64.8378,-147.7164
+160,"Scranton/Wilkes-Barre, PA",41.408,-75.6624
+161,"San Luis Obispo, CA",35.2828,-120.6596
+162,"Bristol/Johnson City/Kingsport, TN",36.4752,-82.4732
+163,"Gulfport/Biloxi, MS",30.3674,-89.0928
+164,"Monterey, CA",36.6002,-121.8947
+165,"Charleston/Dunbar, WV",38.351,-81.6385
+166,"Flint, MI",43.0125,-83.6875
+167,"Harlingen/San Benito, TX",26.1906,-97.6961
+168,"Juneau, AK",58.3019,-134.4197
+169,"Idaho Falls, ID",43.4935,-112.0486
+170,"State College, PA",40.7934,-77.86
+171,"Montgomery, AL",32.3792,-86.3077
+172,"Santa Rosa, CA",38.4405,-122.7141
+173,"Rochester, MN",44.0121,-92.4802
+174,"Everett, WA",47.9784,-122.2021
+175,"Daytona Beach, FL",29.2108,-81.0228
+176,"Atlantic City, NJ",39.3643,-74.4229
+177,"Lansing, MI",42.7325,-84.5555
+178,"Minot, ND",48.2325,-101.2963
+179,"Jacksonville/Camp Lejeune, NC",34.7541,-77.4303
+180,"Fayetteville, NC",35.0527,-78.8784
+181,"Kalamazoo, MI",42.2917,-85.5872
+182,"Bellingham, WA",48.7519,-122.4787
+183,"St. George, UT",37.1042,-113.5841
+184,"Santa Fe, NM",35.687,-105.9378
+185,"Lincoln, NE",40.8136,-96.7026
+186,"Mosinee, WI",44.7894,-89.7036
+187,"Great Falls, MT",47.5049,-111.3008
+188,"Montrose/Delta, CO",38.4783,-107.8762
+189,"Bloomington/Normal, IL",40.4842,-88.9937
+190,"Duluth, MN",46.7867,-92.1005
+191,"Alexandria, LA",31.3113,-92.4451
+192,"Monroe, LA",32.5093,-92.1193
+193,"Eagle, CO",39.6357,-106.9107
+194,"Newport News/Williamsburg, VA",37.0871,-76.473
+195,"Killeen, TX",31.1171,-97.7278
+196,"Brownsville, TX",25.9018,-97.4975
+197,"Hilton Head, SC",32.2163,-80.7526
+198,"Hayden, CO",40.4915,-107.2258
+199,"Melbourne, FL",28.0836,-80.6081
+200,"Saginaw/Bay City/Midland, MI",43.4195,-83.9508
+201,"Bakersfield, CA",35.3733,-119.0187
+202,"La Crosse, WI",43.8014,-91.2396
+203,"Trenton, NJ",40.2206,-74.7597
+204,"Columbia, MO",38.9517,-92.3341
+205,"Laredo, TX",27.5306,-99.4803
+206,"Helena, MT",46.5891,-112.0391
+207,"Grand Forks, ND",47.9253,-97.0329
+208,"Flagstaff, AZ",35.1981,-111.6513
+209,"Casper, WY",42.8501,-106.3252
+210,"Ketchikan, AK",55.3422,-131.6461
+211,"Champaign/Urbana, IL",40.1164,-88.2434
+212,"Abilene, TX",32.4487,-99.7331
+213,"Fort Smith, AR",35.3859,-94.3986
+214,"Ithaca/Cortland, NY",42.443961,-76.501881
+215,"Lynchburg, VA",37.4138,-79.1423
+216,"Sun Valley/Hailey/Ketchum, ID",43.6807,-114.3637
+217,"Aguadilla, PR",18.4274,-67.1546
+218,"Newburgh/Poughkeepsie, NY",41.7591,-74.0027
+219,"Yuma, AZ",32.6927,-114.6277
+220,"New Bern/Morehead/Beaufort, NC",35.1085,-77.0441
+221,"Arcata/Eureka, CA",40.8021,-124.1637
+222,"Salisbury, MD",38.3607,-75.5994
+223,"Erie, PA",42.1292,-80.0851
+224,"Williston, ND",48.1469,-103.6179
+225,"Elmira/Corning, NY",42.1601,-76.8919
+226,"Toledo, OH",41.6528,-83.5379
+227,"College Station/Bryan, TX",30.628,-96.3344
+228,"Manhattan/Ft. Riley, KS",39.1836,-96.5717
+229,"Waco, TX",31.5493,-97.1467
+230,"Lake Charles, LA",30.2266,-93.2174
+231,"Marquette, MI",46.5435,-87.3954
+232,"San Angelo, TX",31.4638,-100.437
+233,"Columbus, GA",32.4605,-84.9877
+234,"Dothan, AL",31.2232,-85.3905
+235,"Nantucket, MA",41.2835,-70.0995
+236,"Columbus, MS",33.4957,-88.4273
+237,"Tyler, TX",32.3513,-95.3011
+238,"Ashland, WV",38.4192,-82.429
+239,"Christiansted, VI",17.7445,-64.7034
+240,"Springfield, IL",39.7817,-89.6501
+241,"Texarkana, AR",33.4251,-94.0477
+242,"Roswell, NM",33.3943,-104.523
+243,"Belleville, IL",38.5201,-89.9839
+244,"Lawton/Fort Sill, OK",34.6183,-98.3903
+245,"Redding, CA",40.5865,-122.3917
+246,"Sitka, AK",57.0531,-135.33
+247,"Lewiston, ID",46.4165,-117.0177
+248,"Plattsburgh, NY",44.6995,-73.4529
+249,"Rhinelander, WI",45.6366,-89.4121
+250,"Brunswick, GA",31.1499,-81.4915
+251,"Valdosta, GA",30.8327,-83.2785
+252,"Joplin, MO",37.0842,-94.5133
+253,"Yakima, WA",46.6022,-120.5044
+254,"Albany, GA",31.5785,-84.1557
+255,"Florence, SC",34.1954,-79.7626
+256,"Wichita Falls, TX",33.9137,-98.4934
+257,"Latrobe, PA",40.3272,-79.4013
+258,"Hays, KS",38.8792,-99.3268
+259,"Worcester, MA",42.2626,-71.8023
+260,"Aberdeen, SD",45.4647,-98.4865
+261,"Hancock/Houghton, MI",47.1269,-88.5856
+262,"Meridian, MS",32.3643,-88.7036
+263,"Concord, NC",35.4088,-80.5795
+264,"Pellston, MI",45.5579,-84.7971
+265,"Guam, TT",13.4443,144.7937
+266,"Twin Falls, ID",42.5616,-114.4609
+267,"Clarksburg/Fairmont, WV",39.2796,-80.3445
+268,"Pocatello, ID",42.8713,-112.4441
+269,"Sioux City, IA",42.4999,-96.4027
+270,"Greenville, NC",35.6127,-77.3664
+271,"Butte, MT",45.9909,-112.5018
+272,"Gunnison, CO",38.5453,-106.9253
+273,"Cody, WY",44.5263,-109.0565
+274,"Jamestown, ND",46.9105,-98.7084
+275,"Grand Island, NE",40.9264,-98.342
+276,"Iron Mountain/Kingsford, MI",45.8184,-88.0679
+277,"Dubuque, IA",42.5006,-90.6646
+278,"Watertown, NY",43.9748,-75.9107
+279,"Hattiesburg/Laurel, MS",31.3271,-89.2903
+280,"Lanai, HI",20.8289,-156.9383
+281,"Cordova, AK",60.5439,-145.7575
+282,"Salina, KS",38.8403,-97.6114
+283,"Provo, UT",40.2338,-111.6585
+284,"Rockford, IL",42.2714,-89.0939
+285,"Wenatchee, WA",47.4235,-120.3103
+286,"Hoolehua, HI",21.1591,-157.0943
+287,"Beaumont/Port Arthur, TX",29.9511,-93.9357
+288,"Wrangell, AK",56.4708,-132.3761
+289,"Paducah, KY",37.0834,-88.6
+290,"Pullman, WA",46.7317,-117.1791
+291,"Garden City, KS",37.9717,-100.8727
+292,"Walla Walla, WA",46.0646,-118.343
+293,"Petersburg, AK",56.8127,-132.9555
+294,"Deadhorse, AK",70.1944,-148.4653
+295,"Stillwater, OK",36.1156,-97.0584
+296,"International Falls, MN",48.6019,-93.4106
+297,"North Platte, NE",41.1239,-100.7654
+298,"Brainerd, MN",46.358,-94.2006
+299,"Staunton, VA",38.1496,-79.0717
+300,"Cape Girardeau, MO",37.3059,-89.5182
+301,"Alpena, MI",45.0617,-83.4327
+302,"Binghamton, NY",42.0987,-75.9179
+303,"Sault Ste. Marie, MI",46.4953,-84.3453
+304,"Muskegon, MI",43.2342,-86.2484
+305,"Laramie, WY",41.3114,-105.5911
+306,"Scottsbluff, NE",41.8666,-103.6672
+307,"Presque Isle/Houlton, ME",46.6861,-68.012
+308,"Eau Claire, WI",44.8113,-91.4985
+309,"Gillette, WY",44.2911,-105.5016
+310,"Hibbing, MN",47.4272,-92.9376
+311,"Devils Lake, ND",48.1128,-98.8651
+312,"Moab, UT",38.5733,-109.5498
+313,"Prescott, AZ",34.54,-112.4685
+314,"Lewisburg, WV",37.8018,-80.4456
+315,"Kodiak, AK",57.79,-152.41
+316,"Cedar City, UT",37.6775,-113.0619
+317,"Kotzebue, AK",66.8983,-162.5967
+318,"Stockton, CA",37.9577,-121.2908
+319,"Bemidji, MN",47.4717,-94.8829
+320,"Escanaba, MI",45.7456,-87.0646
+321,"Bethel, AK",60.7922,-161.7558
+322,"Waterloo, IA",42.4928,-92.3426
+323,"Martha's Vineyard, MA",41.3911,-70.6151
+324,"Longview, TX",32.5007,-94.7405
+325,"Yakutat, AK",59.5469,-139.7272
+326,"Rock Springs, WY",41.5875,-109.2029
+327,"Elko, NV",40.8324,-115.7631
+328,"Nome, AK",64.4988,-165.3948
+329,"Liberal, KS",37.0431,-100.921
+330,"Kearney, NE",40.6994,-99.0817
+331,"Pueblo, CO",38.2545,-104.6091
+332,"Ponce, PR",18.0111,-66.6141
+333,"Hobbs, NM",32.7026,-103.136
+334,"Decatur, IL",39.8403,-88.9548
+335,"Pierre, SD",44.3683,-100.351
+336,"New Haven, CT",41.3082,-72.9251
+337,"Vernal, UT",40.4557,-109.5283
+338,"Barrow, AK",71.2906,-156.7887
+339,"Portsmouth, NH",43.0718,-70.7626
+340,"Sheridan, WY",44.7972,-106.9567
+341,"Del Rio, TX",29.3659,-100.8954
+342,"Victoria, TX",28.8053,-97.0036
+343,"Niagara Falls, NY",43.0962,-79.0377
+344,"Dickinson, ND",46.8792,-102.7896
+345,"Johnstown, PA",40.3267,-78.9219
+346,"Dodge City, KS",37.7528,-100.0171
+347,"Cheyenne, WY",41.1399,-104.8202
+348,"Watertown, SD",44.8995,-97.115
+349,"Dillingham, AK",59.0449,-158.505
+350,"Riverton/Lander, WY",43.0385,-108.3952
+351,"Saipan, TT",15.1865,145.7506
+352,"Kapalua, HI",20.9949,-156.6673
+353,"Williamsport, PA",41.2412,-77.0011
+354,"Quincy, IL",39.9356,-91.4099
+355,"Ogdensburg, NY",44.6819,-75.486
+356,"King Salmon, AK",58.6886,-156.6614
+357,"North Bend/Coos Bay, OR",43.4064,-124.2243
+358,"Alamosa, CO",37.4695,-105.87
+359,"Fort Dodge, IA",42.4975,-94.168
+360,"Santa Maria, CA",34.953,-120.4357
+361,"Unalaska, AK",53.8721,-166.5343
+362,"CONCORD, NC",35.4094,-80.5795
+363,"Mammoth Lakes, CA",37.6485,-118.9721
+364,"West Yellowstone, MT",44.6624,-111.1046
+365,"Fort Leonard Wood, MO",37.7423,-92.1205
+366,"Hagerstown, MD",39.6418,-77.72
+367,"Mason City, IA",43.1536,-93.201
+368,"Adak Island, AK",51.8789,-176.658
+369,"Gustavus, AK",58.4139,-135.7341
+370,"Bishop, CA",37.3635,-118.3951
+371,"Owensboro, KY",37.7742,-87.1133
+372,"Ogden, UT",41.223,-111.9738
+373,"Hyannis, MA",41.6525,-70.2895
+374,"St. Cloud, MN",45.5579,-94.1632
+375,"Pago Pago, TT",-14.2766,-170.702
+376,"Branson, MO",36.6437,-93.2185
+377,"Cold Bay, AK",55.2059,-162.7253
+378,"Bullhead City, AZ",35.1359,-114.5286
+379,"Wilmington, DE",39.7391,-75.5398
+380,"Rota, TT",36.6483,-6.2757

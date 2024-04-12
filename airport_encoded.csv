@@ -1,0 +1,382 @@
+﻿City;Latitude;Longitude;airport_encoded
+Aberdeen, SD;454.647;-984.865;0
+Abilene, TX;324.487;-997.331;1
+Adak Island, AK;518.789;-176.658;2
+Aguadilla, PR;184.274;-671.546;3
+Akron, OH;410.814;-81.519;4
+Alamosa, CO;374.695;-105.87;5
+Albany, GA;315.785;-841.557;6
+Albany, NY;426.526;-737.562;7
+Albuquerque, NM;350.844;-1.066.504;8
+Alexandria, LA;313.113;-924.451;9
+Allentown/Bethlehem/Easton, PA;406.023;-754.714;10
+Alpena, MI;450.617;-834.327;11
+Amarillo, TX;352.211;-1.018.302;12
+Anchorage, AK;612.181;-1.499.003;13
+Appleton, WI;442.611;-884.134;14
+Arcata/Eureka, CA;408.021;-1.241.637;15
+Asheville, NC;355.951;-825.515;16
+Ashland, WV;384.192;-82.429;17
+Aspen, CO;391.911;-1.068.175;18
+Atlanta, GA;33.749;-84.388;19
+Atlantic City, NJ;393.643;-744.229;20
+Augusta, GA;334.735;-820.105;21
+Austin, TX;302.672;-977.431;22
+Bakersfield, CA;353.733;-1.190.187;23
+Baltimore, MD;392.904;-766.122;24
+Bangor, ME;448.012;-687.778;25
+Barrow, AK;712.906;-1.567.887;26
+Baton Rouge, LA;304.515;-911.871;27
+Beaumont/Port Arthur, TX;299.511;-939.357;28
+Belleville, IL;385.201;-899.839;29
+Bellingham, WA;487.519;-1.224.787;30
+Bemidji, MN;474.717;-948.829;31
+Bend/Redmond, OR;440.582;-1.213.153;32
+Bethel, AK;607.922;-1.617.558;33
+Billings, MT;457.833;-1.085.007;34
+Binghamton, NY;420.987;-759.179;35
+Birmingham, AL;335.207;-868.025;36
+Bishop, CA;373.635;-1.183.951;37
+Bismarck/Mandan, ND;468.083;-1.007.837;38
+Bloomington/Normal, IL;404.842;-889.937;39
+Boise, ID;43.615;-1.162.023;40
+Boston, MA;423.601;-710.589;41
+Bozeman, MT;456.769;-1.110.429;42
+Brainerd, MN;46.358;-942.006;43
+Branson, MO;366.437;-932.185;44
+Bristol/Johnson City/Kingsport, TN;364.752;-824.732;45
+Brownsville, TX;259.018;-974.975;46
+Brunswick, GA;311.499;-814.915;47
+Buffalo, NY;428.864;-788.784;48
+Bullhead City, AZ;351.359;-1.145.286;49
+Burbank, CA;341.808;-1.183.089;50
+Burlington, VT;444.759;-732.121;51
+Butte, MT;459.909;-1.125.018;52
+Cape Girardeau, MO;373.059;-895.182;53
+Casper, WY;428.501;-1.063.252;54
+Cedar City, UT;376.775;-1.130.619;55
+Cedar Rapids/Iowa City, IA;419.779;-916.656;56
+Champaign/Urbana, IL;401.164;-882.434;57
+Charleston, SC;327.765;-799.311;58
+Charleston/Dunbar, WV;38.351;-816.385;59
+Charlotte Amalie, VI;183.419;-649.307;60
+Charlotte, NC;352.271;-808.431;61
+Charlottesville, VA;380.293;-784.767;62
+Chattanooga, TN;350.456;-853.097;63
+Cheyenne, WY;411.399;-1.048.202;64
+Chicago, IL;418.781;-876.298;65
+Christiansted, VI;177.445;-647.034;66
+Cincinnati, OH;391.031;-84.512;67
+Clarksburg/Fairmont, WV;392.796;-803.445;68
+Cleveland, OH;414.993;-816.944;69
+Cody, WY;445.263;-1.090.565;70
+Cold Bay, AK;552.059;-1.627.253;71
+College Station/Bryan, TX;30.628;-963.344;72
+Colorado Springs, CO;388.339;-1.048.214;73
+Columbia, MO;389.517;-923.341;74
+Columbia, SC;340.007;-810.348;75
+Columbus, GA;324.605;-849.877;76
+Columbus, MS;334.957;-884.273;77
+Columbus, OH;399.612;-829.988;78
+Concord, NC;354.088;-805.795;79
+CONCORD, NC;354.094;-805.795;80
+Cordova, AK;605.439;-1.457.575;81
+Corpus Christi, TX;278.006;-973.964;82
+Dallas, TX;327.767;-96.797;83
+Dallas/Fort Worth, TX;327.767;-96.797;84
+Dayton, OH;397.589;-841.916;85
+Daytona Beach, FL;292.108;-810.228;86
+Deadhorse, AK;701.944;-1.484.653;87
+Decatur, IL;398.403;-889.548;88
+Del Rio, TX;293.659;-1.008.954;89
+Denver, CO;397.392;-1.049.903;90
+Des Moines, IA;415.868;-93.625;91
+Detroit, MI;423.314;-830.458;92
+Devils Lake, ND;481.128;-988.651;93
+Dickinson, ND;468.792;-1.027.896;94
+Dillingham, AK;590.449;-158.505;95
+Dodge City, KS;377.528;-1.000.171;96
+Dothan, AL;312.232;-853.905;97
+Dubuque, IA;425.006;-906.646;98
+Duluth, MN;467.867;-921.005;99
+Durango, CO;372.753;-1.078.801;100
+Eagle, CO;396.357;-1.069.107;101
+Eau Claire, WI;448.113;-914.985;102
+El Paso, TX;317.619;-106.485;103
+Elko, NV;408.324;-1.157.631;104
+Elmira/Corning, NY;421.601;-768.919;105
+Erie, PA;421.292;-800.851;106
+Escanaba, MI;457.456;-870.646;107
+Eugene, OR;440.521;-1.230.868;108
+Evansville, IN;379.716;-875.711;109
+Everett, WA;479.784;-1.222.021;110
+Fairbanks, AK;648.378;-1.477.164;111
+Fargo, ND;468.772;-967.898;112
+Fayetteville, AR;360.626;-941.574;113
+Fayetteville, NC;350.527;-788.784;114
+Flagstaff, AZ;351.981;-1.116.513;115
+Flint, MI;430.125;-836.875;116
+Florence, SC;341.954;-797.626;117
+Fort Dodge, IA;424.975;-94.168;118
+Fort Lauderdale, FL;261.224;-801.373;119
+Fort Leonard Wood, MO;377.423;-921.205;120
+Fort Myers, FL;266.406;-818.723;121
+Fort Smith, AR;353.859;-943.986;122
+Fort Wayne, IN;410.793;-851.394;123
+Fresno, CA;367.372;-1.197.871;124
+Gainesville, FL;296.516;-823.248;125
+Garden City, KS;379.717;-1.008.727;126
+Gillette, WY;442.911;-1.055.016;127
+Grand Forks, ND;479.253;-970.329;128
+Grand Island, NE;409.264;-98.342;129
+Grand Junction, CO;390.639;-1.085.506;130
+Grand Rapids, MI;429.634;-856.681;131
+Great Falls, MT;475.049;-1.113.008;132
+Green Bay, WI;445.126;-880.133;133
+Greensboro/High Point, NC;360.726;-79.792;134
+Greenville, NC;356.127;-773.664;135
+Greer, SC;349.381;-822.275;136
+Guam, TT;134.443;1.447.937;137
+Gulfport/Biloxi, MS;303.674;-890.928;138
+Gunnison, CO;385.453;-1.069.253;139
+Gustavus, AK;584.139;-1.357.341;140
+Hagerstown, MD;396.418;-77.72;141
+Hancock/Houghton, MI;471.269;-885.856;142
+Harlingen/San Benito, TX;261.906;-976.961;143
+Harrisburg, PA;402.732;-768.867;144
+Hartford, CT;417.658;-726.734;145
+Hattiesburg/Laurel, MS;313.271;-892.903;146
+Hayden, CO;404.915;-1.072.258;147
+Hays, KS;388.792;-993.268;148
+Helena, MT;465.891;-1.120.391;149
+Hibbing, MN;474.272;-929.376;150
+Hilo, HI;197.071;-1.550.884;151
+Hilton Head, SC;322.163;-807.526;152
+Hobbs, NM;327.026;-103.136;153
+Honolulu, HI;213.069;-1.578.583;154
+Hoolehua, HI;211.591;-1.570.943;155
+Houston, TX;297.604;-953.698;156
+Huntsville, AL;347.304;-865.861;157
+Hyannis, MA;416.525;-702.895;158
+Idaho Falls, ID;434.935;-1.120.486;159
+Indianapolis, IN;397.684;-861.581;160
+International Falls, MN;486.019;-934.106;161
+Iron Mountain/Kingsford, MI;458.184;-880.679;162
+Islip, NY;407.891;-731.349;163
+Ithaca/Cortland, NY;42.443.961;-76.501.881;164
+Jackson, WY;434.799;-1.107.624;165
+Jackson/Vicksburg, MS;322.988;-901.848;166
+Jacksonville, FL;303.322;-816.557;167
+Jacksonville/Camp Lejeune, NC;347.541;-774.303;168
+Jamestown, ND;469.105;-987.084;169
+Johnstown, PA;403.267;-789.219;170
+Joplin, MO;370.842;-945.133;171
+Juneau, AK;583.019;-1.344.197;172
+Kahului, HI;208.947;-156.47;173
+Kalamazoo, MI;422.917;-855.872;174
+Kalispell, MT;482.023;-1.143.129;175
+Kansas City, MO;390.997;-945.786;176
+Kapalua, HI;209.949;-1.566.673;177
+Kearney, NE;406.994;-990.817;178
+Ketchikan, AK;553.422;-1.316.461;179
+Key West, FL;245.551;-81.78;180
+Killeen, TX;311.171;-977.278;181
+King Salmon, AK;586.886;-1.566.614;182
+Knoxville, TN;359.606;-839.207;183
+Kodiak, AK;57.79;-152.41;184
+Kona, HI;196.406;-1.559.969;185
+Kotzebue, AK;668.983;-1.625.967;186
+La Crosse, WI;438.014;-912.396;187
+Lafayette, LA;302.241;-920.198;188
+Lake Charles, LA;302.266;-932.174;189
+Lanai, HI;208.289;-1.569.383;190
+Lansing, MI;427.325;-845.555;191
+Laramie, WY;413.114;-1.055.911;192
+Laredo, TX;275.306;-994.803;193
+Las Vegas, NV;361.699;-1.151.398;194
+Latrobe, PA;403.272;-794.013;195
+Lawton/Fort Sill, OK;346.183;-983.903;196
+Lewisburg, WV;378.018;-804.456;197
+Lewiston, ID;464.165;-1.170.177;198
+Lexington, KY;380.406;-845.037;199
+Liberal, KS;370.431;-100.921;200
+Lihue, HI;219.789;-1.593.563;201
+Lincoln, NE;408.136;-967.026;202
+Little Rock, AR;347.465;-922.896;203
+Long Beach, CA;337.701;-1.181.937;204
+Longview, TX;325.007;-947.405;205
+Los Angeles, CA;340.522;-1.182.437;206
+Louisville, KY;382.527;-857.585;207
+Lubbock, TX;335.779;-1.018.552;208
+Lynchburg, VA;374.138;-791.423;209
+Madison, WI;430.731;-894.012;210
+Mammoth Lakes, CA;376.485;-1.189.721;211
+Manchester, NH;429.956;-714.548;212
+Manhattan/Ft. Riley, KS;391.836;-965.717;213
+Marquette, MI;465.435;-873.954;214
+Martha's Vineyard, MA;413.911;-706.151;215
+Mason City, IA;431.536;-93.201;216
+Medford, OR;423.265;-1.228.756;217
+Melbourne, FL;280.836;-806.081;218
+Memphis, TN;351.495;-90.049;219
+Meridian, MS;323.643;-887.036;220
+Miami, FL;257.617;-801.918;221
+Midland/Odessa, TX;318.457;-1.023.676;222
+Milwaukee, WI;430.389;-879.065;223
+Minneapolis, MN;449.778;-93.265;224
+Minot, ND;482.325;-1.012.963;225
+Mission/McAllen/Edinburg, TX;262.034;-98.23;226
+Missoula, MT;468.721;-113.994;227
+Moab, UT;385.733;-1.095.498;228
+Mobile, AL;306.954;-880.399;229
+Moline, IL;415.067;-905.151;230
+Monroe, LA;325.093;-921.193;231
+Monterey, CA;366.002;-1.218.947;232
+Montgomery, AL;323.792;-863.077;233
+Montrose/Delta, CO;384.783;-1.078.762;234
+Mosinee, WI;447.894;-897.036;235
+Muskegon, MI;432.342;-862.484;236
+Myrtle Beach, SC;336.891;-788.867;237
+Nantucket, MA;412.835;-700.995;238
+Nashville, TN;361.627;-867.816;239
+New Bern/Morehead/Beaufort, NC;351.085;-770.441;240
+New Haven, CT;413.082;-729.251;241
+New Orleans, LA;299.511;-900.715;242
+New York, NY;407.128;-74.006;243
+Newark, NJ;407.357;-741.724;244
+Newburgh/Poughkeepsie, NY;417.591;-740.027;245
+Newport News/Williamsburg, VA;370.871;-76.473;246
+Niagara Falls, NY;430.962;-790.377;247
+Nome, AK;644.988;-1.653.948;248
+Norfolk, VA;368.508;-762.859;249
+North Bend/Coos Bay, OR;434.064;-1.242.243;250
+North Platte, NE;411.239;-1.007.654;251
+Oakland, CA;378.044;-1.222.711;252
+Ogden, UT;41.223;-1.119.738;253
+Ogdensburg, NY;446.819;-75.486;254
+Oklahoma City, OK;354.676;-975.164;255
+Omaha, NE;412.565;-959.345;256
+Ontario, CA;340.633;-1.176.509;257
+Orlando, FL;285.383;-813.792;258
+Owensboro, KY;377.742;-871.133;259
+Paducah, KY;370.834;-88.6;260
+Pago Pago, TT;-142.766;-170.702;261
+Palm Springs, CA;338.303;-1.165.453;262
+Panama City, FL;301.588;-856.602;263
+Pasco/Kennewick/Richland, WA;462.628;-1.192.163;264
+Pellston, MI;455.579;-847.971;265
+Pensacola, FL;304.213;-872.169;266
+Peoria, IL;406.936;-89.589;267
+Petersburg, AK;568.127;-1.329.555;268
+Philadelphia, PA;399.526;-751.652;269
+Phoenix, AZ;334.484;-112.074;270
+Pierre, SD;443.683;-100.351;271
+Pittsburgh, PA;404.406;-799.959;272
+Plattsburgh, NY;446.995;-734.529;273
+Pocatello, ID;428.713;-1.124.441;274
+Ponce, PR;180.111;-666.141;275
+Portland, ME;436.591;-702.568;276
+Portland, OR;455.051;-122.675;277
+Portsmouth, NH;430.718;-707.626;278
+Prescott, AZ;34.54;-1.124.685;279
+Presque Isle/Houlton, ME;466.861;-68.012;280
+Providence, RI;41.824;-714.128;281
+Provo, UT;402.338;-1.116.585;282
+Pueblo, CO;382.545;-1.046.091;283
+Pullman, WA;467.317;-1.171.791;284
+Punta Gorda, FL;269.298;-820.454;285
+Quincy, IL;399.356;-914.099;286
+Raleigh/Durham, NC;357.796;-786.382;287
+Rapid City, SD;440.805;-103.231;288
+Redding, CA;405.865;-1.223.917;289
+Reno, NV;395.296;-1.198.138;290
+Rhinelander, WI;456.366;-894.121;291
+Richmond, VA;375.407;-77.436;292
+Riverton/Lander, WY;430.385;-1.083.952;293
+Roanoke, VA;37.271;-799.414;294
+Rochester, MN;440.121;-924.802;295
+Rochester, NY;431.566;-776.088;296
+Rock Springs, WY;415.875;-1.092.029;297
+Rockford, IL;422.714;-890.939;298
+Roswell, NM;333.943;-104.523;299
+Rota, TT;366.483;-62.757;300
+Sacramento, CA;385.816;-1.214.944;301
+Saginaw/Bay City/Midland, MI;434.195;-839.508;302
+Saipan, TT;151.865;1.457.506;303
+Salina, KS;388.403;-976.114;304
+Salisbury, MD;383.607;-755.994;305
+Salt Lake City, UT;407.608;-111.891;306
+San Angelo, TX;314.638;-100.437;307
+San Antonio, TX;294.241;-984.936;308
+San Diego, CA;327.157;-1.171.611;309
+San Francisco, CA;377.749;-1.224.194;310
+San Jose, CA;373.382;-1.218.863;311
+San Juan, PR;184.655;-661.057;312
+San Luis Obispo, CA;352.828;-1.206.596;313
+Sanford, FL;288.029;-812.695;314
+Santa Ana, CA;337.455;-1.178.677;315
+Santa Barbara, CA;344.208;-1.196.982;316
+Santa Fe, NM;35.687;-1.059.378;317
+Santa Maria, CA;34.953;-1.204.357;318
+Santa Rosa, CA;384.405;-1.227.141;319
+Sarasota/Bradenton, FL;273.364;-825.307;320
+Sault Ste. Marie, MI;464.953;-843.453;321
+Savannah, GA;320.809;-810.912;322
+Scottsbluff, NE;418.666;-1.036.672;323
+Scranton/Wilkes-Barre, PA;41.408;-756.624;324
+Seattle, WA;476.062;-1.223.321;325
+Sheridan, WY;447.972;-1.069.567;326
+Shreveport, LA;325.252;-937.502;327
+Sioux City, IA;424.999;-964.027;328
+Sioux Falls, SD;435.446;-967.311;329
+Sitka, AK;570.531;-135.33;330
+South Bend, IN;416.764;-86.252;331
+Spokane, WA;476.588;-117.426;332
+Springfield, IL;397.817;-896.501;333
+Springfield, MO;372.086;-932.926;334
+St. Cloud, MN;455.579;-941.632;335
+St. George, UT;371.042;-1.135.841;336
+St. Louis, MO;38.627;-901.994;337
+St. Petersburg, FL;277.676;-826.403;338
+State College, PA;407.934;-77.86;339
+Staunton, VA;381.496;-790.717;340
+Stillwater, OK;361.156;-970.584;341
+Stockton, CA;379.577;-1.212.908;342
+Sun Valley/Hailey/Ketchum, ID;436.807;-1.143.637;343
+Syracuse, NY;430.481;-761.474;344
+Tallahassee, FL;304.383;-842.807;345
+Tampa, FL;279.506;-824.572;346
+Texarkana, AR;334.251;-940.477;347
+Toledo, OH;416.528;-835.379;348
+Traverse City, MI;447.631;-856.206;349
+Trenton, NJ;402.206;-747.597;350
+Tucson, AZ;322.226;-1.109.747;351
+Tulsa, OK;36.154;-959.928;352
+Twin Falls, ID;425.616;-1.144.609;353
+Tyler, TX;323.513;-953.011;354
+Unalaska, AK;538.721;-1.665.343;355
+Valdosta, GA;308.327;-832.785;356
+Valparaiso, FL;305.096;-864.726;357
+Vernal, UT;404.557;-1.095.283;358
+Victoria, TX;288.053;-970.036;359
+Waco, TX;315.493;-971.467;360
+Walla Walla, WA;460.646;-118.343;361
+Washington, DC;389.072;-770.369;362
+Waterloo, IA;424.928;-923.426;363
+Watertown, NY;439.748;-759.107;364
+Watertown, SD;448.995;-97.115;365
+Wenatchee, WA;474.235;-1.203.103;366
+West Palm Beach/Palm Beach, FL;267.153;-800.534;367
+West Yellowstone, MT;446.624;-1.111.046;368
+White Plains, NY;41.033;-737.629;369
+Wichita Falls, TX;339.137;-984.934;370
+Wichita, KS;376.872;-973.301;371
+Williamsport, PA;412.412;-770.011;372
+Williston, ND;481.469;-1.036.179;373
+Wilmington, DE;397.391;-755.398;374
+Wilmington, NC;342.257;-779.447;375
+Worcester, MA;422.626;-718.023;376
+Wrangell, AK;564.708;-1.323.761;377
+Yakima, WA;466.022;-1.205.044;378
+Yakutat, AK;595.469;-1.397.272;379
+Yuma, AZ;326.927;-1.146.277;380
